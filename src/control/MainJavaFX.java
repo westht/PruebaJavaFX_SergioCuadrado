@@ -18,7 +18,7 @@ import javafx.scene.text.Font;
  * @author Sergio Cuadrado
  * 
  * 
- * @version 1.5
+ * @version 1.6
  *
  */
 public class MainJavaFX extends Application {

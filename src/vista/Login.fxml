@@ -65,7 +65,7 @@
             </Label>
             <HBox layoutX="92.0" layoutY="170.0" prefHeight="61.0" prefWidth="305.0" spacing="50.0">
                <children>
-                  <Button id="buttontexts" mnemonicParsing="false" prefHeight="49.0" prefWidth="147.0" style="-fx-background-color: white;" stylesheets="@../control/styles.css" text="About Us" textFill="#795548">
+                  <Button id="buttontexts" mnemonicParsing="false" prefHeight="49.0" prefWidth="147.0" style="-fx-background-color: white;" text="About Us" textFill="#795548">
                      <opaqueInsets>
                         <Insets />
                      </opaqueInsets></Button>

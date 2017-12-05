@@ -16,7 +16,7 @@ import javafx.stage.StageStyle;
  * @author Sergio Cuadrado
  * 
  * 
- * @version 1.5
+ * @version 1.6
  *
  */
 
