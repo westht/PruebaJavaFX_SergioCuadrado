@@ -33,6 +33,7 @@ public class MainJavaFX extends Application {
 
 			FXMLLoader loader=new FXMLLoader(getClass().getResource("../vista/Login.fxml"));
 	        AnchorPane pane=loader.load();
+	        stage.initStyle(StageStyle.UNDECORATED);
 	        stage.setScene(new Scene(pane));
 	        stage.setTitle("Login");
 	        stage.show();
