@@ -29,7 +29,6 @@ public class ControlFX {
             AnchorPane page = (AnchorPane) loader.load();
             Stage sendStage = new Stage();
             sendStage.setTitle("FREESOLOYOLO");
-            sendStage.initStyle(StageStyle.UNDECORATED);
             Scene scene = new Scene(page);
              sendStage.setScene(scene);
 
