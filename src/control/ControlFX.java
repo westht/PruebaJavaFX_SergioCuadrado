@@ -8,6 +8,7 @@ import javafx.scene.effect.GaussianBlur;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
+import javafx.stage.StageStyle;
 
 public class ControlFX {
 	public void NuevaScreen() {
@@ -18,11 +19,7 @@ public class ControlFX {
             AnchorPane page = (AnchorPane) loader.load();
             Stage sendStage = new Stage();
             sendStage.setTitle("FREESOLOYOLO");
-            
-            //clips
-           
-       
-            
+            sendStage.initStyle(StageStyle.UNDECORATED);
             Scene scene = new Scene(page);
              sendStage.setScene(scene);
 

@@ -9,6 +9,7 @@ import javafx.stage.StageStyle;
 import javafx.scene.Scene;
 import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.BorderPane;
+import javafx.scene.text.Font;
 
 
 public class MainJavaFX extends Application {
@@ -35,7 +36,6 @@ public class MainJavaFX extends Application {
 	        AnchorPane pane=loader.load();
 	        stage.initStyle(StageStyle.UNDECORATED);
 	        stage.setScene(new Scene(pane));
-	        stage.setTitle("Login");
 	        stage.show();
  
 
