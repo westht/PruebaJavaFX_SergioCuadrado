@@ -30,5 +30,8 @@ public class ControlFX {
             e.printStackTrace();
         }
     }
+	public void EndThePain(){
+		System.exit(0);
+	}
 
 }
