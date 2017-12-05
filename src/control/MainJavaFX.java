@@ -11,7 +11,16 @@ import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.BorderPane;
 import javafx.scene.text.Font;
 
-
+/**
+ * Este proyecto es la Prueba de Desarrollo de Interfaces. Se trata de una ventana
+ * login y de otra ventana llamada FreeSolo.
+ * 
+ * @author Sergio Cuadrado
+ * 
+ * 
+ * @version 1.5
+ *
+ */
 public class MainJavaFX extends Application {
 	private AnchorPane rootLayout;	
 	Stage stage;

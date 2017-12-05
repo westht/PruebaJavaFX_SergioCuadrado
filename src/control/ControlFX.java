@@ -9,6 +9,16 @@ import javafx.scene.image.ImageView;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
+/**
+ * Este controlador es la Prueba de Desarrollo de Interfaces. Esta clase contiene las operaciones necesarias para
+ * la funcionalidad del programa.
+ * 
+ * @author Sergio Cuadrado
+ * 
+ * 
+ * @version 1.5
+ *
+ */
 
 public class ControlFX {
 	public void NuevaScreen() {
